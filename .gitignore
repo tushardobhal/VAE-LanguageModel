@@ -1,0 +1,7 @@
+*log*
+bin
+data
+dumps
+figs
+__pycache*
+simple-examples*
